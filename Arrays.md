@@ -73,10 +73,10 @@ Um ein mehrdimensionales Array zu erstellen, nutzen wir folgende Schreibweise:
 
 ```java
 // Wichtig: Es müssen bereits Größen für alle Dimensionen angegeben werden!
-int[][] 2dArray = new int[2][3];
+int[][] array = new int[2][3];
 
 // Zugriff auf Array:
-2dArray[0][1] = 4;
+array[0][1] = 4;
 ```
 
 ### Übung
